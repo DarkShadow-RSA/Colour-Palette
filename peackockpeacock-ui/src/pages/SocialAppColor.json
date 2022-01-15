@@ -1,0 +1,185 @@
+[
+  {
+    "Name": "Twitter",
+    "Color": ["#1da1f2", "#14171a", "#aab8c2", "#e1e8ed", "#f5f8fa"]
+  },
+  {
+    "Name": "YouTube",
+    "Color": ["#ff0000", "#282828", "#ffffff"]
+  },
+  {
+    "Name": "Instagram",
+    "Color": ["#c32aa3", "#4c5fd7", "#7232bd", "#f46f30", "#ffdc7d"]
+  },
+  {
+    "Name": "Pinterest",
+    "Color": ["#bd081c"]
+  },
+  {
+    "Name": "LinkedIn",
+    "Color": ["#0a66c2", "#000000", "#ffffff", "#f0b6a8"]
+  },
+    {
+    "Name": "Google",
+    "Color": ["#4285f4", "#ea4335", "#34a853", "#fbbc05"]
+  },
+    {
+    "Name": "Snapchat",
+    "Color": ["#fffc00", "#ffffff", "#000000"]
+  },
+    {
+    "Name": "WhatsApp",
+    "Color": ["#25d366", "#075e54", "#128c7e", "#dcf8c6", "#34b7f1"]
+  },
+    {
+    "Name": "Tumblr",
+    "Color": ["#35465d"]
+  },
+    {
+    "Name": "Reddit",
+    "Color": ["#ff4500", "#ff5700", "#cee3f8", "#336699", "#5f99cf"]
+  },
+    {
+    "Name": "TikTok",
+    "Color": ["#010101", "#69c9d0", "#ee1d52", "#ffffff"]
+  },
+    {
+    "Name": "Yelp",
+    "Color": ["#d32323"]
+  },
+    {
+    "Name": "Mastodon",
+    "Color": ["#2b90d9", "#282c37", "#9baec8", "#d9e1e8"]
+  },
+    {
+    "Name": "Spotify",
+    "Color": ["#1ed760", "#1db954", "#ffffff", "#191414"]
+  },
+    {
+    "Name": "Apple",
+    "Color": ["#a6b1b7", "#000000", "#333333", "#bbbbbb", "#ffffff"]
+  },
+    {
+    "Name": "Amazon",
+    "Color": ["#ff9900"]
+  },
+    {
+    "Name": "Alexa",
+    "Color": ["#00a7ce", "#232f3e", "#ffffff"]
+  },
+    {
+    "Name": "Microsoft",
+    "Color": ["#f35022", "#80bb03", "#03a5f0", "#ffb903"]
+  },
+    {
+    "Name": "Periscope",
+    "Color": ["#40a4c4", "#d55548", "#7cd6f1", "#3f4d51", "#a4b8be"]
+  },
+    {
+    "Name": "Foursquare",
+    "Color": ["#f94877", "#073282", "#2d5be3"]
+  },
+    {
+    "Name": "Swarm",
+    "Color": ["#ffa633", "#f06d1b", "#ffa71c", "#2182eb"]
+  },
+    {
+    "Name": "Medium",
+    "Color": ["#02b875", "#12100e", "#ffffff", "#e8f3ec", "#00ab6b"]
+  },
+    {
+    "Name": "Vimeo",
+    "Color": ["#1ab7ea", "#162221", "#ffffff", "#000000"]
+  },
+    {
+    "Name": "Skype",
+    "Color": ["#00aff0", "#0078d7"]
+  },
+    {
+    "Name": "Android",
+    "Color": ["#a4c639"]
+  },
+    {
+    "Name": "Quora",
+    "Color": ["#aa2200", "#ffffff", "#2b6dad"]
+  },
+    {
+    "Name": "Dribbble",
+    "Color": ["#ea4c89", "#c32361", "#444444", "#9ba5a8"]
+  },
+    {
+    "Name": "Slack",
+    "Color": ["#4a154b", "#36c5f0", "#2eb67d", "#e01e5a", "#ecb22e"]
+  },
+    {
+    "Name": "StumbleUpon",
+    "Color": ["#e94826", "#eb4924", "#e4e5e7", "#000000"]
+  },
+    {
+    "Name": "Yahoo",
+    "Color": ["#6001d2"]
+  },
+    {
+    "Name": "Twitch",
+    "Color": ["#9146ff", "#f0f0ff", "#000000"]
+  },
+    {
+    "Name": "Soundcloud",
+    "Color": ["#ff5500", "#ff7700", "#ff3300", "#ff4B00", "#ff3801"]
+  },
+    {
+    "Name": "DeviantArt",
+    "Color": ["#05cc47", "#1f3626", "#42704f", "#4dc47d", "#d4f5de"]
+  },
+    {
+    "Name": "SlideShare",
+    "Color": ["#e68523", "#00a0dc", "#0077b5"]
+  },
+    {
+    "Name": "Steam",
+    "Color": ["#171A21", "#66c0f4", "#1b2838", "#2a475e", "#c7d5e0"]
+  },
+    {
+    "Name": "Discord",
+    "Color": ["#5865f2", "#ffffff", "#23272a"]
+  },
+
+  {
+    "Name": "VK",
+    "Color": ["#4a76a8", "#5181b8", "#2a5885", "#edeef0", "#f7f8fa"]
+  },
+  {
+    "Name": "Telegram",
+    "Color": ["#0088cc"]
+  },
+  {
+    "Name": "Clarity",
+    "Color": ["#61bed9"]
+  },
+  {
+    "Name": "HomeAdvisor",
+    "Color": ["#f89000"]
+  },
+  {
+    "Name": "Houzz",
+    "Color": ["#4dbc15"]
+  },
+  {
+    "Name": "Angi",
+    "Color": ["#ff6153"]
+  },
+  {
+    "Name": "Glassdoor",
+    "Color": ["#0caa41"]
+  },
+  {
+    "Name": "Google+",
+    "Color": ["#db4437"]
+  }
+  ,
+  {
+    "Name": "Vine",
+    "Color": ["#00b489"]
+  }
+  
+]

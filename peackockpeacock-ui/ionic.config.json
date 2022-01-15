@@ -1,0 +1,7 @@
+{
+  "name": "peackockpeacock-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,8 @@
+.containerGrid {
+  display: flex;
+
+  flex-flow: row wrap;
+}
+.itemGrid {
+  width: 50%;
+}
