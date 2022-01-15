@@ -1,3 +1,2 @@
 # Colour-Palette
-Personal Project for mobile application
-/n REACT JS and Ionic
+Personal Project for Ionic React application.
